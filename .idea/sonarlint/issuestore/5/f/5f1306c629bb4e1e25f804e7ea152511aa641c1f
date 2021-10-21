@@ -1,0 +1,16 @@
+
+R
+java:S1481"6Remove this unused "haveIHealthyKnees" local variable.(äÄƒ8È§¾‚Ä/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×Œ¢½
+N	java:S106"9Replace this use of System.out or System.err by a logger.(×Œ¢½
+a	java:S1283"LEnd this switch case with an unconditional break, return or throw statement.( àª´
+S	java:S106'"9Replace this use of System.out or System.err by a logger.(òÑ¸¨ûÿÿÿÿ
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(¹àó©
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(ç ÊÀ
+S	java:S106-"9Replace this use of System.out or System.err by a logger.(¤Ìışÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(šå¹Ãşÿÿÿÿ
+S	java:S1061"9Replace this use of System.out or System.err by a logger.(Á•¸ÿÿÿÿÿ
+N	java:S1063"9Replace this use of System.out or System.err by a logger.( àª´
+M	java:S1065"9Replace this use of System.out or System.err by a logger.(ŞîÉd
+J
+java:S1144"5Remove this unused private "conditnalExample" method.(…à7

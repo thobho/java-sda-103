@@ -1,0 +1,15 @@
+
+N
+java:S1854"8Remove this useless assignment to local variable "poem".(“×Ø‹
+U
+java:S1854
+"8Remove this useless assignment to local variable "ala2".(Ä§µ¦8²œÂÈ/
+T
+java:S1854	"7Remove this useless assignment to local variable "ala".(ë¹ôÚ8²œÂÈ/
+E
+java:S1481	"(Remove this unused "ala" local variable.(ë¹ôÚ8´œÂÈ/
+F
+java:S1481
+")Remove this unused "ala2" local variable.(Ä§µ¦8´œÂÈ/
+?
+java:S1481")Remove this unused "poem" local variable.(“×Ø‹

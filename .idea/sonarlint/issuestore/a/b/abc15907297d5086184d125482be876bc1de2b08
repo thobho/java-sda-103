@@ -1,0 +1,21 @@
+
+V
+java:S1854"";Remove this useless assignment to local variable "rounded".(«ü´üÿÿÿÿ
+M
+java:S1854!"7Remove this useless assignment to local variable "abs".(Ÿùˆ
+P
+java:S1854 ":Remove this useless assignment to local variable "random".(¾—Ú—
+K
+java:S1854"5Remove this useless assignment to local variable "z".(ïß©Í
+S	java:S106"9Replace this use of System.out or System.err by a logger.(½½°™øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‚Û¹¾
+<
+java:S1481"&Remove this unused "z" local variable.(ïß©Í
+N	java:S106"9Replace this use of System.out or System.err by a logger.(­ –
+S	java:S106"9Replace this use of System.out or System.err by a logger.(çö„ÿÿÿÿÿ
+A
+java:S1481 "+Remove this unused "random" local variable.(¾—Ú—
+>
+java:S1481!"(Remove this unused "abs" local variable.(Ÿùˆ
+G
+java:S1481"",Remove this unused "rounded" local variable.(«ü´üÿÿÿÿ

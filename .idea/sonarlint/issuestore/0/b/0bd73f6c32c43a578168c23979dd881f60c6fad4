@@ -1,0 +1,50 @@
+
+Y
+java:S1854-">Remove this useless assignment to local variable "someString".(¡ÃµØùÿÿÿÿ
+Q
+java:S1854*"<Remove this useless assignment to local variable "someChar".(™Ïô'
+Y
+java:S1854"">Remove this useless assignment to local variable "someDouble".(ûİ¿ùÿÿÿÿ
+S
+java:S1854!"=Remove this useless assignment to local variable "someFloat".(öğÁÎ
+R
+java:S1854"<Remove this useless assignment to local variable "someLong".(¡şîÌ
+Q
+java:S1854";Remove this useless assignment to local variable "someInt".(ê›Éà
+X
+java:S1854"=Remove this useless assignment to local variable "someShort".(•Íóôûÿÿÿÿ
+R
+java:S1854"<Remove this useless assignment to local variable "someByte".(Ê¾ßÈ
+Q
+java:S1854";Remove this useless assignment to local variable "yourAge".(åç‹
+T
+java:S1854"9Remove this useless assignment to local variable "myAge".(¿µí©ùÿÿÿÿ
+V
+java:S1854"9Remove this useless assignment to local variable "myAge".(ËˆøÑ8ö¥´ÿÃ/
+O
+java:S1854"9Remove this useless assignment to local variable "myAge".(”³ÙÕ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(Ù¥Õğ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¥Õğ8ªÑ»ÿÃ/
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¸óôİ8¬Ñ»ÿÃ/
+V	java:S125"<This block of commented-out lines of code should be removed.(ûÂàÄúÿÿÿÿ
+C
+java:S1481"-Remove this unused "someByte" local variable.(Ê¾ßÈ
+I
+java:S1481".Remove this unused "someShort" local variable.(•Íóôûÿÿÿÿ
+B
+java:S1481",Remove this unused "someInt" local variable.(ê›Éà
+C
+java:S1481"-Remove this unused "someLong" local variable.(¡şîÌ
+D
+java:S1481!".Remove this unused "someFloat" local variable.(öğÁÎ
+J
+java:S1481""/Remove this unused "someDouble" local variable.(ûİ¿ùÿÿÿÿ
+R
+java:S1481&"0Remove this unused "someBoolean" local variable.(ŞŸ˜ûÿÿÿÿ8Óş«ÄÂ/
+K
+java:S1481'"5Remove this unused "someOtherBoolean" local variable.(•ı¥É
+B
+java:S1481*"-Remove this unused "someChar" local variable.(™Ïô'
+J
+java:S1481-"/Remove this unused "someString" local variable.(¡ÃµØùÿÿÿÿ

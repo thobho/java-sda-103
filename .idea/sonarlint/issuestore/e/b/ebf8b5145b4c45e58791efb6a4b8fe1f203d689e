@@ -1,0 +1,8 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘î˜Ü
+M	java:S106"9Replace this use of System.out or System.err by a logger.(µ„É
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ØÁûÿÿÿÿ
+P
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8à÷üÄÈ/
+R
+java:S4973"<Strings and Boxed types should be compared using "equals()".(Ç Ãü

@@ -1,0 +1,21 @@
+
+P
+java:S1854
+"5Remove this useless assignment to local variable "c".(ûçËÇøÿÿÿÿ
+X
+java:S1854"6Remove this useless assignment to local variable "z2".(—æÇşÿÿÿÿ8ÎõíÂÈ/
+P
+java:S1854"5Remove this useless assignment to local variable "d".(òØßßûÿÿÿÿ
+A
+java:S1481
+"&Remove this unused "c" local variable.(ûçËÇøÿÿÿÿ
+A
+java:S1481"&Remove this unused "d" local variable.(òØßßûÿÿÿÿ
+I
+java:S1481"'Remove this unused "z2" local variable.(—æÇşÿÿÿÿ8ÏõíÂÈ/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ãŒÂÔøÿÿÿÿ8“ÔáÂÈ/
+R
+java:S2589"7Remove this expression which always evaluates to "true"(òØßßûÿÿÿÿ
+R
+java:S2589
+"7Remove this expression which always evaluates to "true"(ûçËÇøÿÿÿÿ

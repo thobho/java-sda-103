@@ -1,0 +1,14 @@
+
+b	java:S112""FDefine and throw a dedicated exception instead of using a generic one.(ßÎÃš8İª¿È/
+^
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(‹Ê˜8åª¿È/
+˜
+java:S1130"vRemove the declaration of thrown exception 'java.io.FileNotFoundException', as it cannot be thrown from method's body.(òá–İıÿÿÿÿ8½û¿È/
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(á€–¿úÿÿÿÿ8èª¿È/
+Z	java:S106'"9Replace this use of System.out or System.err by a logger.(ĞğìÓıÿÿÿÿ8ğª¿È/
+X	java:S125)"<This block of commented-out lines of code should be removed.(ÍÊÿÙ8ñª¿È/
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(–Ëì‚ÿÿÿÿÿ8òª¿È/
+Z	java:S106>"9Replace this use of System.out or System.err by a logger.(Û¾…—ıÿÿÿÿ8òª¿È/
+Z	java:S106Q"9Replace this use of System.out or System.err by a logger.(‚ğŒˆüÿÿÿÿ8ôª¿È/
+i
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ğ¸ö8Ñœ¿È/

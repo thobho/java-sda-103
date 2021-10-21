@@ -1,0 +1,10 @@
+
+^
+java:S1126"AReplace this if-then-else statement by a single return statement.(ÚúóÃ8ú„÷¾È/
+T	java:S106 "9Replace this use of System.out or System.err by a logger.(Ÿò°8ı„÷¾È/
+N
+java:S6126 "2Replace this String concatenation with Text block.(Ÿò°8ı„÷¾È/
+c
+java:S1126-"AReplace this if-then-else statement by a single return statement.(ââêñÿÿÿÿÿ8€…÷¾È/
+Q
+java:S1068"/Remove this unused "totalAmount" private field.(ÑÿİÍşÿÿÿÿ8‡…÷¾È/
