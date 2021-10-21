@@ -1,22 +1,0 @@
-
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ø™úÅûÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ü™Ñïúÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(ù£Î
-X
-java:S1854 "=Remove this useless assignment to local variable "charArray".(ÕœÂºøÿÿÿÿ
-S
-java:S1854"8Remove this useless assignment to local variable "text".(ñƒ´ÿÿÿÿÿ
-D
-java:S1481")Remove this unused "text" local variable.(ñƒ´ÿÿÿÿÿ
-I
-java:S1481 ".Remove this unused "charArray" local variable.(ÕœÂºøÿÿÿÿ
-O
-java:S1854%"9Remove this useless assignment to local variable "hello".(€ü³Ô
-@
-java:S1481%"*Remove this unused "hello" local variable.(€ü³Ô
-Q	java:S125'"<This block of commented-out lines of code should be removed.(İàÈ‹
-V	java:S1251"<This block of commented-out lines of code should be removed.(ïĞ”ñşÿÿÿÿ
-N	java:S106;"9Replace this use of System.out or System.err by a logger.(‚Ø¨ò
-S	java:S106<"9Replace this use of System.out or System.err by a logger.(¹äÀßüÿÿÿÿ
-S	java:S106="9Replace this use of System.out or System.err by a logger.(Ü°¡³ûÿÿÿÿ
-S	java:S106>"9Replace this use of System.out or System.err by a logger.(³³¢øÿÿÿÿ
